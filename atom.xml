@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://domathlab.github.io</id>
+    <title>Domath Lab</title>
+    <updated>2025-03-12T14:46:21.047Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://domathlab.github.io"/>
+    <link rel="self" href="https://domathlab.github.io/atom.xml"/>
+    <subtitle>看见数学｜爱上数学</subtitle>
+    <logo>https://domathlab.github.io/images/avatar.png</logo>
+    <icon>https://domathlab.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Domath Lab</rights>
+    <entry>
+        <title type="html"><![CDATA[domath线上展览beta1]]></title>
+        <id>https://domathlab.github.io/post/95n7-lpa95/</id>
+        <link href="https://domathlab.github.io/post/95n7-lpa95/">
+        </link>
+        <updated>2025-03-12T14:18:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[domath线上展览]]></title>
+        <id>https://domathlab.github.io/post/Sc06qeJ3AS/</id>
+        <link href="https://domathlab.github.io/post/Sc06qeJ3AS/">
+        </link>
+        <updated>2025-03-12T12:16:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[314国际数学日“数学·艺术·创造”，彭罗斯密铺里的一百种看见]]></title>
+        <id>https://domathlab.github.io/post/domath@2025314math/</id>
+        <link href="https://domathlab.github.io/post/domath@2025314math/">
+        </link>
+        <updated>2025-03-12T03:34:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day1全记录]]></title>
+        <id>https://domathlab.github.io/post/day1-quan-ji-lu/</id>
+        <link href="https://domathlab.github.io/post/day1-quan-ji-lu/">
+        </link>
+        <updated>2024-04-12T06:27:12.000Z</updated>
+    </entry>
+</feed>
